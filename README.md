@@ -23,5 +23,5 @@
 
 ## ScreenShots
 
-<img src="/images/light.jpg">
-<img src="/images/dark.jpg">
+<img src="images/light.jpg">
+<img src="images/dark.jpg">
