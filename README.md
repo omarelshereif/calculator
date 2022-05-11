@@ -11,7 +11,7 @@
 
 > This project is an online calculator that helps students to solve mathematical equations such as addition, subtraction, multiplication and division. There are two attributes calculator, dark and light, I hope you like it and thank you
 
-### [Calculator](https://n8wnmgbe5iotkih17tptdw.on.drv.tw/Calcoulator/)
+### [Calculator](https://3zgb9xr7rb4zautqyjzsgq.on.drv.tw/calculator/)
 
 
 ## Development
